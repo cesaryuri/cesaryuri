@@ -1,5 +1,4 @@
-## Olá me chamo Cesar Yuri e sou estudante de Engenharia da Computação do 8º período!
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1+eu+sou+Cesar+Yuri)](https://git.io/typing-svg)
 <div>
 <a href="https://github.com/cesaryuri">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaryuri&layout=compact&langs_count=7&theme=algolia"/>
