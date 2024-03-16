@@ -3,7 +3,8 @@
 <div>
   <a href="https://github.com/cesaryuri">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaryuri&layout=compact&langs_count=7&theme=algolia"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesaryuri&show_icons=true&theme=algolia&include_all_commits=true"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cesaryuri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
 </div>
 
 ### 👨‍💻 Quem sou eu
@@ -29,4 +30,6 @@ Me chamo Cesar Yuri, estudante do 8º período de Engenharia da Computação e f
 </div>
 
 ### 🎮 GitHub Extras
+<div>
 ![Snake animation](https://github.com/cesaryuri/cesaryuri/blob/output/github-contribution-grid-snake.svg)
+</div>
