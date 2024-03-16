@@ -30,6 +30,4 @@ Me chamo Cesar Yuri, estudante do 8º período de Engenharia da Computação e f
 </div>
 
 ### 🎮 GitHub Extras
-<div>
 ![Snake animation](https://github.com/cesaryuri/cesaryuri/blob/output/github-contribution-grid-snake.svg)
-</div>
