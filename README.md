@@ -3,10 +3,9 @@
 <div>
   <a href="https://github.com/cesaryuri">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaryuri&layout=compact&langs_count=7&theme=algolia"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cesaryuri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cesaryuri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 </div>
-
 
 ### 👨‍💻 Quem sou eu
 Me chamo Cesar Yuri, estudante do 8º período de Engenharia da Computação e formado em Técnico de Desenvolvimento de Sistemas. Interessado no desenvolvimento mobile e IoT, afim de prover soluções inovadoras que interajam com o mundo ao nosso redor.
