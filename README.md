@@ -8,7 +8,7 @@
 </div>
 
 ### 👨‍💻 Quem sou eu
-Me chamo Cesar Yuri, estudante do 8º período de Engenharia da Computação e formado em Técnico de Desenvolvimento de Sistemas. Interessado no desenvolvimento mobile, embarcados e IoT, afim de prover soluções inovadoras que interajam com o mundo ao nosso redor.
+Me chamo Cesar Yuri, estudante do 10º período de Engenharia da Computação e formado em Técnico de Desenvolvimento de Sistemas. Interessado no desenvolvimento mobile, embarcados e IoT, afim de prover soluções inovadoras que interajam com o mundo ao nosso redor.
 
 ### 🛠 Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
