@@ -11,7 +11,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou **Cesar Yuri**, estudante do **10º período de Engenharia da Computação** e **Técnico em Desenvolvimento de Sistemas**. Tenho interesse em **desenvolvimento mobile**, **sistemas embarcados** e **IoT**, com foco na criação de soluções eficientes e inovadoras que conectem software, hardware e o mundo real.
+Sou **Cesar Yuri**, estudante de Engenharia da Computação** e **Técnico em Desenvolvimento de Sistemas**. Tenho interesse em **desenvolvimento mobile**, **sistemas embarcados** e **IoT**, com foco na criação de soluções eficientes e inovadoras que conectem software, hardware e o mundo real.
 
 Atualmente, busco aprimorar continuamente minhas habilidades técnicas e aplicar o conhecimento adquirido em projetos práticos, acadêmicos e profissionais.
 
