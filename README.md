@@ -19,9 +19,11 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou **Cesar Yuri**, estudante de **Engenharia da Computação** e **Técnico em Desenvolvimento de Sistemas**. Tenho interesse em **desenvolvimento mobile**, **sistemas embarcados** e **IoT**, com foco na criação de soluções eficientes e inovadoras que conectem software, hardware e o mundo real.
+Sou Cesar Yuri, estudante de Engenharia da Computação, na fase final da graduação.
 
-Atualmente, busco aprimorar continuamente minhas habilidades técnicas e aplicar o conhecimento adquirido em projetos práticos, acadêmicos e profissionais.
+Atuo com desenvolvimento de sistemas, robótica e IoT, com foco em integrar hardware e software e entender o que está acontecendo por baixo do sistema. Gosto de trabalhar com lógica de baixo nível e de acompanhar os projetos do início ao fim, transformando ideias em soluções que realmente funcionam.
+
+Neste GitHub estão projetos que representam esse caminho, o que venho estudando e construindo ao longo do tempo, sempre buscando soluções simples, funcionais e aplicáveis ao mundo real.
 
 ---
 
