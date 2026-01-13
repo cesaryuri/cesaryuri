@@ -2,15 +2,15 @@
 
 <div align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cesaryuri&theme=rose_pine" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cesaryuri&theme=transparent" 
     width="85%" 
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cesaryuri&theme=rose_pine" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cesaryuri&theme=transparent" 
     width="42%" 
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cesaryuri&theme=rose_pine" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cesaryuri&theme=transparent" 
     width="42%" 
   />
 </div>
