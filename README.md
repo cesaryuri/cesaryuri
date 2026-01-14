@@ -19,11 +19,11 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou Cesar Yuri, estudante de Engenharia da Computação, na fase final da graduação.
+Sou estudante de Engenharia da Computação e gosto de entender como as coisas realmente funcionam — do baixo nível no hardware até o backend na nuvem.
 
-Atuo com desenvolvimento de sistemas, robótica e IoT, com foco em integrar hardware e software e entender o que está acontecendo por baixo do sistema. Gosto de trabalhar com lógica de baixo nível e de acompanhar os projetos do início ao fim, transformando ideias em soluções que realmente funcionam.
+Atuo com desenvolvimento de sistemas, robótica e IoT, sempre focado em integrar hardware e software para transformar ideias em soluções funcionais. Atualmente, levo essa mesma lógica para a pesquisa em Inteligência Artificial, desenvolvendo assistentes virtuais focados em suporte contextualizado.
 
-Neste GitHub estão projetos que representam esse caminho, o que venho estudando e construindo ao longo do tempo, sempre buscando soluções simples, funcionais e aplicáveis ao mundo real.
+Neste GitHub estão os projetos que representam esse caminho, buscando sempre soluções simples e aplicáveis ao mundo real.
 
 ---
 
