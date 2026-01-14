@@ -21,7 +21,7 @@
 
 Sou estudante de Engenharia da Computação e gosto de entender como as coisas realmente funcionam — do baixo nível no hardware até o backend na nuvem.
 
-Atuo com desenvolvimento de sistemas, robótica e IoT, sempre focado em integrar hardware e software para transformar ideias em soluções funcionais. Atualmente, levo essa mesma lógica para a pesquisa em Inteligência Artificial, desenvolvendo assistentes virtuais focados em suporte contextualizado.
+Atuo com desenvolvimento de sistemas, robótica e IoT, sempre focado em integrar hardware e software para transformar ideias em soluções funcionais. Atualmente, levo essa mesma lógica para a área de Inteligência Artificial, explorando como aplicar essas tecnologias no desenvolvimento de aplicações práticas.
 
 Neste GitHub estão os projetos que representam esse caminho, buscando sempre soluções simples e aplicáveis ao mundo real.
 
