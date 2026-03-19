@@ -19,11 +19,11 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou estudante de Engenharia da Computação e gosto de entender como as coisas realmente funcionam — do baixo nível no hardware até o backend na nuvem.
+Sou estudante de Engenharia da Computação e tenho interesse em entender como as tecnologias realmente funcionam — não apenas utilizá-las, mas compreender o que acontece por trás. Valorizo entender os fundamentos e ver a teoria aplicada na prática.
 
-Atuo com desenvolvimento de sistemas, robótica e IoT, sempre focado em integrar hardware e software para transformar ideias em soluções funcionais. Atualmente, levo essa mesma lógica para a área de Inteligência Artificial, explorando como aplicar essas tecnologias no desenvolvimento de aplicações práticas.
+Tenho curiosidade por diferentes áreas da tecnologia, principalmente quando envolvem construção e experimentação. Gosto de trabalhar com hardware e software, buscando conectar esses dois mundos na criação de soluções.
 
-Neste GitHub estão os projetos que representam esse caminho, buscando sempre soluções simples e aplicáveis ao mundo real.
+Este GitHub reúne projetos, experimentos e ideias que fazem parte do meu processo contínuo de aprendizado. Fique à vontade para explorar.
 
 ---
 
