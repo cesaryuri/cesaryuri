@@ -19,7 +19,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou estudante de Engenharia da Computação e tenho interesse em entender como as tecnologias realmente funcionam — não apenas utilizá-las, mas compreender o que acontece por trás. Valorizo entender os fundamentos e ver a teoria aplicada na prática.
+Sou estudante de Engenharia da Computação e tenho interesse em entender como as tecnologias realmente funcionam não apenas utilizá-las, mas compreender o que acontece por trás. Valorizo entender os fundamentos e ver a teoria aplicada na prática.
 
 Tenho curiosidade por diferentes áreas da tecnologia, principalmente quando envolvem construção e experimentação. Gosto de trabalhar com hardware e software, buscando conectar esses dois mundos na criação de soluções.
 
